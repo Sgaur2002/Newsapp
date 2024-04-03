@@ -1,0 +1,82 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Andrew Miller",
+      "title": "Report on Clarence Thomas' travel habits is 'politics plain and simple': expert",
+      "description": "Calls for the resignation of Justice Clarence Thomas are unfounded, an expert told Fox News Digital, and there is no \"there there\" when it comes to a report on his travels.",
+      "url": "https://www.foxnews.com/politics/report-clarence-thomas-travel-habits-politics-plain-simple-expert",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/Supreme-court-Justice-Thomas.jpg",
+      "publishedAt": "2023-04-09T14:07:27Z",
+      "content": "A report released last week accusing Supreme Court Justice Clarence Thomas of improperly receiving lavish gifts from a wealthy friend is nothing more than a political hit job, one expert claimed.\r\n\"T… [+7385 chars]"
+    },
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "Annabel Nugent",
+      "title": "Rowan Hisayo Buchanan: ‘Race is incredibly important – but sometimes I’m thinking about love or toast’",
+      "description": "The award-winning author of  ‘Harmless Like You’ returns with a lyrical, haunting third novel. She speaks to Annabel Nugent about writing her real life into fiction, letting go of the ‘default white guys’ that she used to write – and the messy politics of bei…",
+      "url": "http://www.independent.co.uk/arts-entertainment/books/features/rowan-hisayo-buchanan-interview-b2313310.html",
+      "urlToImage": "https://static.independent.co.uk/2023/04/03/17/Rowan%20Hisayo%20Buchanan%20%28c%29%20Sophie%20Davidson.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-04-09T07:05:33Z",
+      "content": "Sign up to our free IndyArts newsletter for all the latest entertainment news and reviews\r\nSign up to our free IndyArts newsletter\r\nRowan Hisayo Buchanan is preoccupied with questions. They swirl aro… [+8752 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Analysis by John Blake, CNN",
+      "title": "Jimmy Carter embodies the 'road not taken' by many White evangelical Christians",
+      "description": "As people pay homage to former President Jimmy Carter, many overlook a primary source of inspiration for his politics and faith: his distinctive brand of White evangelical Christianity, which remains hidden from most Americans.",
+      "url": "http://us.cnn.com/2023/03/05/us/jimmy-carter-evangelicals-blake-cec/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230228211855-01-jimmy-carter-5-things-super-tease.jpg",
+      "publishedAt": "2023-03-05T18:51:32Z",
+      "content": "Analysis by John Blake, CNN\r\nUpdated 1:51 PM ET, Sun March 5, 2023\r\n (CNN)Long before he was called a Nobel Peace Prize laureate, a humanitarian and the 39th president of the United States, Jimmy Car… [+14862 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Mark Davis",
+      "title": "Newsweek",
+      "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+      "url": "https://www.newsweek.com/",
+      "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+      "publishedAt": "2023-03-01T12:07:28.8517009Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2022-08-30T16:37:43.8583104Z",
+      "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+    },
+    {
+      "source": {
+        "id": "the-american-conservative",
+        "name": "The American Conservative"
+      },
+      "author": null,
+      "title": "Politics Archives - The American Conservative",
+      "description": null,
+      "url": "https://www.theamericanconservative.com/category/politics/",
+      "urlToImage": null,
+      "publishedAt": "2022-07-07T21:37:27.3936289Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": null,
+      "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+      "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+      "publishedAt": "2019-11-13T04:41:00Z",
+      "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+  ]
+}
